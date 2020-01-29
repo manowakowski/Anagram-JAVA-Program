@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="edd1d2d9-d8e1-4573-a676-fa8d6277307b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wka1ZKOrOJX5FlDec77Wks3zuQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JAVA/Program for sorting in ascending order" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="java" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.sasa">
+    <configuration name="sasa" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="main.Anagram" />
+      <module name="Anagram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.sasa" />
+      <item itemvalue="Maven.[]" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edd1d2d9-d8e1-4573-a676-fa8d6277307b" name="Default Changelist" comment="" />
+      <created>1579695831205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579695831205</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="428" y="124" width="847" height="677" key="#Project_Structure" timestamp="1579697355500">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="428" y="124" width="847" height="677" key="#Project_Structure/67.27.1533.873@67.27.1533.873" timestamp="1579697355500" />
+    <state x="493" y="120" width="671" height="685" key="#Unnamed" timestamp="1579770561759">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="493" y="120" width="671" height="685" key="#Unnamed/67.27.1533.873@67.27.1533.873" timestamp="1579770561759" />
+    <state x="291" y="120" width="1084" height="777" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579770659763">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="291" y="120" width="1084" height="777" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1533.873@67.27.1533.873" timestamp="1579770659763" />
+    <state x="561" y="248" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579770791168">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="561" y="248" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/67.27.1533.873@67.27.1533.873" timestamp="1579770791168" />
+    <state x="493" y="120" width="671" height="685" key="#sasa" timestamp="1579770803348">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="493" y="120" width="671" height="685" key="#sasa/67.27.1533.873@67.27.1533.873" timestamp="1579770803348" />
+    <state x="563" y="212" width="530" height="501" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579775974786">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="563" y="212" width="530" height="501" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/67.27.1533.873@67.27.1533.873" timestamp="1579775974786" />
+    <state x="616" y="220" width="424" height="484" key="FileChooserDialogImpl" timestamp="1580128657649">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="616" y="220" width="424" height="484" key="FileChooserDialogImpl/67.27.1533.873@67.27.1533.873" timestamp="1580128657649" />
+    <state width="1487" height="304" key="GridCell.Tab.0.bottom" timestamp="1579771894319">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="304" key="GridCell.Tab.0.bottom/67.27.1533.873@67.27.1533.873" timestamp="1579771894319" />
+    <state width="1487" height="304" key="GridCell.Tab.0.center" timestamp="1579771894318">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="304" key="GridCell.Tab.0.center/67.27.1533.873@67.27.1533.873" timestamp="1579771894318" />
+    <state width="1487" height="304" key="GridCell.Tab.0.left" timestamp="1579771894318">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="304" key="GridCell.Tab.0.left/67.27.1533.873@67.27.1533.873" timestamp="1579771894318" />
+    <state width="1487" height="304" key="GridCell.Tab.0.right" timestamp="1579771894319">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="304" key="GridCell.Tab.0.right/67.27.1533.873@67.27.1533.873" timestamp="1579771894319" />
+    <state x="489" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1579771494723">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="489" y="290" key="com.intellij.ide.util.TipDialog/67.27.1533.873@67.27.1533.873" timestamp="1579771494723" />
+    <state x="142" y="64" width="1372" height="796" key="new project wizard" timestamp="1579777823554">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="142" y="64" width="1372" height="796" key="new project wizard/67.27.1533.873@67.27.1533.873" timestamp="1579777823554" />
+    <state x="497" y="208" key="run.anything.popup" timestamp="1579770710561">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="497" y="208" key="run.anything.popup/67.27.1533.873@67.27.1533.873" timestamp="1579770710561" />
+    <state x="496" y="212" width="672" height="678" key="search.everywhere.popup" timestamp="1579703529601">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="496" y="212" width="672" height="678" key="search.everywhere.popup/67.27.1533.873@67.27.1533.873" timestamp="1579703529601" />
+  </component>
+</project>
